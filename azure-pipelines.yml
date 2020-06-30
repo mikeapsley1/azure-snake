@@ -1,6 +1,5 @@
 
-trigger:
-- trivy
+trigger: none
 
 pool:
   vmImage: 'ubuntu-latest'
