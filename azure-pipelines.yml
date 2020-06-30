@@ -1,6 +1,6 @@
 
 pr:
-- master
+- pr-trivy
 
 pool:
   vmImage: 'ubuntu-latest'
